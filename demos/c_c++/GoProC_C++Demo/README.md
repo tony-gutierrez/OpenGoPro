@@ -28,9 +28,11 @@ This demo depends on the following external libraries:
 -   [cJSON](https://github.com/DaveGamble/cJSON): an ultra-light JSON parser that can be used to parse the JSON responses from the WiFi commands
 
 To use the build system contained here, the following programs are required to be installed:
-- [Conan](https://docs.conan.io/en/latest/installation.html): a python-based C / C++ package manager
+- [Conan 1.x](https://docs.conan.io/en/latest/installation.html): a python-based C / C++ package manager
   - If a local python 3 is found, this will be automatically installed
 - [CMake](https://cmake.org/install/): a project configuration and build tool
+
+> Note that only Conan < 2.X is supported
 
 ### Steps
 

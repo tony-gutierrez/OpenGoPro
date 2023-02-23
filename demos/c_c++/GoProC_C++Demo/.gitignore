@@ -1,5 +1,5 @@
 # Output
-build/
+/build/
 **/*.log
 
 # Prerequisites
